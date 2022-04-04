@@ -1,0 +1,75 @@
+.whole
+{
+    display: flex;
+    flex-direction: row;
+}
+.leftelement
+{
+    margin-top: 350px;
+    margin-left: 30px;
+    color: white;
+    font-size: small;
+}
+.containerl
+        {
+            box-shadow: 200px solid black;
+            border-radius: 20px;
+            background: white;
+            display: flex;
+            position: absolute;
+            padding-left: 50px ;
+            flex-direction: column;
+            border: 2px solid white;
+            margin: auto;
+            margin-top: 130px;
+            padding-top: 100px;
+            padding-bottom: 100px;
+            width: 400px;
+            height: 550px;
+            justify-content: center;
+            margin-left: 860px;
+            
+        }
+        .headerl
+        {
+            font-weight: lighter;
+        }
+        .un, .pw
+        {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        .username, .password
+        {
+            border-color: cornflowerblue;
+            border-radius: 10px;
+            width: 280px;
+        }
+        body
+        {
+            
+            background: linear-gradient(to right, dodgerblue 50%, white 50%);
+        }
+        .btn
+        {
+            height: 50px;
+            width: 140px;
+            margin-left: 70px;
+            margin-top: 40px;
+        }
+        img
+        {
+            margin-left: 80px;
+            height: 120px;
+            width: 105px;
+            
+        }
+        .hej
+        {
+            color: yellow;
+            font-size: 60px;
+            font-family:Arial, Helvetica, sans-serif;
+        }
+        p{
+            font-size: 15px;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+        }
